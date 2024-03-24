@@ -1,4 +1,1 @@
-- 👋 Hi, I’m John Giomilas
-- 💻 I'm a 16 years old tennager Lua & Py developer
-- 🌱 I’m currently learning JavaScript, HTML & CSS
-- 📫 How to reach me **Discord: `Inferno#2737` || Email: `johngiomilas@gmail.com`**
+
